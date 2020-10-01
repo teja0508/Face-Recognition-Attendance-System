@@ -135,7 +135,8 @@ py main.py
 ```
 Here is a demo to run the program. I'm Using the Pycharm IDE in my demo.
 
-[![Watch the video](https://github.com/teja0508/Face-Recognition-Attendance-System/blob/master/images/output.mp4)
+
+console.log(embed('https://github.com/teja0508/Face-Recognition-Attendance-System/blob/master/images/output.mp4', {query: {portrait: 0, color: '333'}, attr:{width:400, height:200}}))
 
 ## How To Use? :pencil:
 ----------------------
