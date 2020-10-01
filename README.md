@@ -6,8 +6,6 @@
 ![Face Recognition Logo](https://github.com/kmhmubin/Face-Recognition-Attendance-System/blob/master/Document%20Metarial/Project%20demo%20images/Face-Recognition-Attendance-System-Logo.jpg)
 
 
-![GitHub](https://img.shields.io/github/license/kmhmubin/Face-Recognition-Attendance-System)
-
 ## Motivation :astonished:
 ----------------------------
 We seek to provide a valuable attendance service for both teachers and students. Reduce manual process errors by provide automated and a reliable attendance system uses face recognition technology.
@@ -24,11 +22,11 @@ We seek to provide a valuable attendance service for both teachers and students.
 -----------------------------------
 ### Command Line Interface
 
-![Command Line Interdace](https://github.com/kmhmubin/Face-Recognition-Attendance-System/blob/master/Document%20Metarial/Project%20demo%20images/CODE%20INTERFACE.png)
+![Command Line Interdace](https://github.com/teja0508/Face-Recognition-Attendance-System/blob/master/images/1.PNG)
 
 ### Checking Camera
 
-![Checking Camera](https://github.com/kmhmubin/Face-Recognition-Attendance-System/blob/master/Document%20Metarial/Project%20demo%20images/Program%20working.jpg)
+![Checking Camera](https://github.com/teja0508/Face-Recognition-Attendance-System/blob/master/images/2.PNG)
 
 ### Automail 
 
@@ -137,7 +135,7 @@ py main.py
 ```
 Here is a demo to run the program. I'm Using the Pycharm IDE in my demo.
 
-![Test Run](https://github.com/kmhmubin/Face-Recognition-Attendance-System/blob/master/Document%20Metarial/Project%20demo%20images/code%20demo_edit_0.gif)
+![Test Run](https://github.com/teja0508/Face-Recognition-Attendance-System/blob/master/images/output.mp4)
 
 ## How To Use? :pencil:
 ----------------------
