@@ -1,0 +1,7 @@
+#!c:\users\riyansika\desktop\face-recognition-attendance-system-master\fras\env\scripts\python.exe
+import pcsv
+from jtutils import fix_broken_pipe
+
+if __name__ == "__main__":
+    fix_broken_pipe()
+    pcsv.pcsv()

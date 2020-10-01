@@ -1,0 +1,9 @@
+argparse
+numpy
+pandas
+matplotlib
+xlrd
+xmltodict
+demjson
+leven
+jtutils
