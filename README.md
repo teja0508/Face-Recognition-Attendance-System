@@ -135,7 +135,7 @@ py main.py
 ```
 Here is a demo to run the program. I'm Using the Pycharm IDE in my demo.
 
-![Test Run](https://github.com/teja0508/Face-Recognition-Attendance-System/blob/master/images/output.mp4)
+[![Watch the video](https://github.com/teja0508/Face-Recognition-Attendance-System/blob/master/images/output.mp4)
 
 ## How To Use? :pencil:
 ----------------------
