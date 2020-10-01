@@ -135,9 +135,7 @@ py main.py
 ```
 Here is a demo to run the program. I'm Using the Pycharm IDE in my demo.
 
-
-
-<iframe src="'https://github.com/teja0508/Face-Recognition-Attendance-System/blob/master/images/output.mp4" frameborder="0" allowfullscreen width="400" height="200"></iframe>
+![Test Run](https://drive.google.com/file/d/1WxcgGehf0aIxdaJ68ThN5BDfsoXOQBfP/view?usp=sharing)
 
 ## How To Use? :pencil:
 ----------------------
